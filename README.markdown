@@ -18,7 +18,7 @@ The price should list the cheapest price for which the beer can be bought.
   - 6/10 Mild but citrussy
 * Tilquin Gueuze a l'ancienne 37.5cl - €5.47
 * Timmermans Oude Gueuze 37.5 cl - €3.97
-  - 7/10 very sour/citrussy with a hint of sweetness, uncomplicated aftertaste, tastes like dry cider, almost like strongbow.
+  - 4/10 very sour/citrussy with a hint of sweetness, uncomplicated aftertaste, tastes like dry cider, almost like strongbow.
 * 3 Fonteinen Oude Kriek 37.5cl - 3 Fonteinen Oude Kriek - €7.97
 * St. Louis Gueuze Fond Tradition 37.5cl - €3.97
   - hard to find
