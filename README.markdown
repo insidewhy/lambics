@@ -3,7 +3,7 @@ Reviews of Belgian lambic beers, submit a pull request and add your own reviews!
 The price should list the cheapest price for which the beer can be bought.
 
 ## Sour Lambic
-* 3 Fonteinen Oude Geuze 37.5cl - 3 Fonteinen Oude Gueuze - €4.97
+* 3 Fonteinen Oude Geuze 37.5cl €4.97
 * Belle-Vue Gueuze 25cl - €1.67
 * Boon Gueuze Mariage Parfait 37.5cl - €4.67
 * Boon Oude Gueuze 25cl - €1.97
