@@ -7,22 +7,22 @@ The price should list the cheapest price for which the beer can be bought.
 * Belle-Vue Gueuze 25cl - €1.67
 * Boon Gueuze Mariage Parfait 37.5cl - €4.67
 * Boon Oude Gueuze 25cl - €1.97
-  - 8/10 medium sour, nice fruity aftertaste.
+  - 9/10 medium sour, nice fruity aftertaste.
 * Chapeau Gueuze 37.5cl - €3.77
-  - 7/10 tastes like a non-alcoholic malt drink how is this 5.5%!
+  - 6/10 tastes like a non-alcoholic malt drink how is this 5.5%!
 * Girardin Gueuze 1882 Black Label 37.5cl - €4.17
 * Girardin Gueuze 1882 White Label 37.5cl - €4.17
 * Lindemans Oude Gueuze Cuvee Rene 75cl - €5.97
 * Mort Subite Gueuze 25cl - €1.97
-  - 7/10 Fruity and slightly sour.
+  - 8/10 Fruity and slightly sour.
 * Mort Subite Oude Gueuze 37.5cl - €3.57
-  - 6/10 Like the Gueze only much more sour, no funky smell.
+  - 7/10 Like the Gueze only much more sour, no funky smell.
 * Oud Beersel Oude Gueuze 37.5cl - €4.47
-  - 8/10 like the boon oude gueze, maybe slightly more sour/fruity.
+  - 9/10 like the boon oude gueze, maybe slightly more sour/fruity.
 * St. Louis Gueuze Lambic 25cl - €1.87
   - 6/10 Mild but citrussy
 * Tilquin Gueuze a l'ancienne 37.5cl - €5.47
-  - 8/10 Sour, musty
+  - 9/10 Sour, musty
 * Timmermans Oude Gueuze 37.5 cl - €3.97
   - 4/10 very sour/citrussy with a hint of sweetness, uncomplicated aftertaste, tastes like dry cider, almost like strongbow.
 * 3 Fonteinen Oude Kriek 37.5cl - 3 Fonteinen Oude Kriek - €7.97
@@ -38,6 +38,7 @@ The price should list the cheapest price for which the beer can be bought.
 * Timmermans Strawberry Lambic 25cl - €2.27
   - 8/10 Not to sweet, slightly sour aftertaste. Much better than strawberry cider.
 * Timmermans Tradition Kriek Retro 37.5 cl - €3.97
+  - 7/10 Like the Strawberry Lambic only more sour.
 
 ## Flemish Red
 * Duchesse de Bourgogne 25cl - €1.87 -
