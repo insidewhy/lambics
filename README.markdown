@@ -8,10 +8,9 @@ The price should list the cheapest price for which the beer can be bought.
 * Boon Gueuze Mariage Parfait 37.5cl - €4.67
 * Boon Oude Gueuze 25cl - €1.97
   - 9/10 medium sour, nice fruity aftertaste.
-* Chapeau Gueuze 37.5cl - €3.77
-  - 6/10 tastes like a non-alcoholic malt drink how is this 5.5%!
 * Girardin Gueuze 1882 Black Label 37.5cl - €4.17
 * Girardin Gueuze 1882 White Label 37.5cl - €4.17
+  - 9/10 Tastes like half way between a pale and dark lager with sourness, pretty great.
 * Lindemans Oude Gueuze Cuvee Rene 75cl - €5.97
 * Mort Subite Gueuze 25cl - €1.97
   - 8/10 Fruity and slightly sour.
@@ -34,7 +33,10 @@ The price should list the cheapest price for which the beer can be bought.
 ## Sweet Lambic
 * Chapeau Banana 25cl - €2.17
   - 8/10 Sweet but not too sweet, like a banana milk shake made with brown sugar
+* Chapeau Gueuze 37.5cl - €3.77
+  - 6/10 tastes like a non-alcoholic malt drink how is this 5.5%!
 * Lindemans Faro 37.5cl - €2.97
+  - 6.5/ Like the Chapeau Gueuze but slightly more sour.
 * Timmermans Strawberry Lambic 25cl - €2.27
   - 8/10 Not to sweet, slightly sour aftertaste. Much better than strawberry cider.
 * Timmermans Tradition Kriek Retro 37.5 cl - €3.97
