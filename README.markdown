@@ -4,7 +4,7 @@ The price should list the cheapest price for which the beer can be bought.
 
 ## Sour Lambic
 * 3 Fonteinen Oude Geuze 37.5cl €4.97
-  - 10/10 - Sour fizzy fruity and slight sweetness with a special unique tang.
+  - 10/10 Sour fizzy fruity and slight sweetness with a special unique tang.
 * Belle-Vue Gueuze 25cl - €1.67
 * Boon Gueuze Mariage Parfait 37.5cl - €4.67
 * Boon Oude Gueuze 25cl - €1.97
@@ -27,6 +27,7 @@ The price should list the cheapest price for which the beer can be bought.
 * Timmermans Oude Gueuze 37.5 cl - €3.97
   - 4/10 very sour/citrussy with a hint of sweetness, uncomplicated aftertaste, tastes like dry cider, almost like strongbow.
 * 3 Fonteinen Oude Kriek 37.5cl - 3 Fonteinen Oude Kriek - €7.97
+  - 10/10 Like the non-kriek version but the cherry gives it some added complexity without adding too much sweetness. So good.
 * St. Louis Gueuze Fond Tradition 37.5cl - €3.97
   - hard to find
 * Timmermans Tradition Gueuze 37.5 cl - €3.47
@@ -63,6 +64,6 @@ The price should list the cheapest price for which the beer can be bought.
   - 8/10 Sour, funky smell, really good.
 * Cuvee De Ranke 75cl - €6.97
 * Bourgogne des Flandres 33cl - €2.27
-  - 6/10 - Quite sour, not so sweet, like a sour Ichtegem's old brown.
+  - 6/10 Quite sour, not so sweet, like a sour Ichtegem's old brown.
 * Petrus Oud Bruin 33cl - €1.97
   - hard to find
