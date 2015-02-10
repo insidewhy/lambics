@@ -4,13 +4,15 @@ The price should list the cheapest price for which the beer can be bought.
 
 ## Sour Lambic
 * 3 Fonteinen Oude Geuze 37.5cl €4.97
+  - 10/10 - Sour fizzy fruity and slight sweetness with a special unique tang.
 * Belle-Vue Gueuze 25cl - €1.67
 * Boon Gueuze Mariage Parfait 37.5cl - €4.67
 * Boon Oude Gueuze 25cl - €1.97
   - 9/10 medium sour, nice fruity aftertaste.
 * Girardin Gueuze 1882 Black Label 37.5cl - €4.17
+  - 8.5-9.5/10 i was pretty tipsy by now but I remember it being awesome.
 * Girardin Gueuze 1882 White Label 37.5cl - €4.17
-  - 9/10 Tastes like half way between a pale and dark lager with sourness, pretty great.
+  - 9/10 tastes like half way between a pale and dark lager with sourness, pretty great.
 * Lindemans Oude Gueuze Cuvee Rene 75cl - €5.97
 * Mort Subite Gueuze 25cl - €1.97
   - 8/10 Fruity and slightly sour.
