@@ -7,6 +7,7 @@ The price should list the cheapest price for which the beer can be bought.
   - 10/10 Sour fizzy fruity and slight sweetness with a special unique tang.
 * Belle-Vue Gueuze 25cl - €1.67
 * Boon Gueuze Mariage Parfait 37.5cl - €4.67
+  - 6/10 taste doesn't stand out enough.
 * Boon Oude Gueuze 25cl - €1.97
   - 9/10 medium sour, nice fruity aftertaste.
 * Girardin Gueuze 1882 Black Label 37.5cl - €4.17
@@ -14,6 +15,7 @@ The price should list the cheapest price for which the beer can be bought.
 * Girardin Gueuze 1882 White Label 37.5cl - €4.17
   - 9/10 tastes like half way between a pale and dark lager with sourness, pretty great.
 * Lindemans Oude Gueuze Cuvee Rene 75cl - €5.97
+  - 6.5/10 The taste doesn't become overbearing over time but also isn't that impressive.
 * Mort Subite Gueuze 25cl - €1.97
   - 8/10 Fruity and slightly sour.
 * Mort Subite Oude Gueuze 37.5cl - €3.57
@@ -44,6 +46,8 @@ The price should list the cheapest price for which the beer can be bought.
   - 8/10 Not to sweet, slightly sour aftertaste. Much better than strawberry cider.
 * Timmermans Tradition Kriek Retro 37.5 cl - €3.97
   - 7/10 Like the Strawberry Lambic only more sour.
+* Cuvee De Ranke 75cl - €6.97
+  - 9/10 remember this was good but I forgot why.
 
 ## Flemish Red
 * Duchesse de Bourgogne 25cl - €1.87 -
@@ -59,10 +63,12 @@ The price should list the cheapest price for which the beer can be bought.
 * Rodenbach Grand Cru 33cl - €2.47
   - 9/10 Very sour quite sweet balanced
 * Rodenbach 25 cl - €1.47
+  - 6/10 Good for the price, could do with more sourness.
+* Rodenbach Vingage 2011 75 cl - €15.91
+  - 8/10 Very sour/sweet but not unique enough for the price.
 * Liefmans Oud Bruin 25cl - €1.87 -
 * Liefmans Goudenband 37.5 cl - €3.87
   - 8/10 Sour, funky smell, really good.
-* Cuvee De Ranke 75cl - €6.97
 * Bourgogne des Flandres 33cl - €2.27
   - 6/10 Quite sour, not so sweet, like a sour Ichtegem's old brown.
 * Petrus Oud Bruin 33cl - €1.97
