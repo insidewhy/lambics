@@ -48,6 +48,8 @@ The price should list the cheapest price for which the beer can be bought.
   - 7/10 Like the Strawberry Lambic only more sour.
 * Cuvee De Ranke 75cl - €6.97
   - 9/10 remember this was good but I forgot why.
+* Pêcheresse 37.5cl - €4.73
+  - 9/10 most peachy peach beer but tastes like real peaches not fake peaches peach peach peach.
 
 ## Flemish Red
 * Duchesse de Bourgogne 25cl - €1.87 -
