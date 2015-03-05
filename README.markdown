@@ -8,8 +8,8 @@ The price should list the cheapest price for which the beer can be bought.
 * Belle-Vue Gueuze 25cl - €1.67
 * Boon Gueuze Mariage Parfait 37.5cl - €4.67
   - 6/10 taste doesn't stand out enough.
-* Boon Oude Gueuze 25cl - €1.97
-  - 9/10 medium sour, nice fruity aftertaste.
+* Boon Oude Gueuze (2011/2012) 25cl - €1.97
+  - 9.5/10 medium sour, nice fruity aftertaste, nice dankness. so good.
 * Girardin Gueuze 1882 Black Label 37.5cl - €4.17
   - 8.5-9.5/10 i was pretty tipsy by now but I remember it being awesome.
 * Girardin Gueuze 1882 White Label 37.5cl - €4.17
@@ -32,6 +32,8 @@ The price should list the cheapest price for which the beer can be bought.
   - 10/10 Like the non-kriek version but the cherry gives it some added complexity without adding too much sweetness. So good.
 * St. Louis Gueuze Fond Tradition 37.5cl - €3.97
   - hard to find
+* Moriau Oude Geuze 37.5cl - €4.19
+  - 8/10 Medium sour, quite fruity, like a less dank version of the Boon Gueze.
 * Timmermans Tradition Gueuze 37.5 cl - €3.47
   - hard to find
 
