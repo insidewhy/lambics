@@ -52,10 +52,13 @@ The price should list the cheapest price for which the beer can be bought.
   - 9/10 remember this was good but I forgot why.
 * Pêcheresse 37.5cl - €4.73
   - 9/10 most peachy peach beer but tastes like real peaches not fake peaches peach peach peach.
+* Echt Kriekenbier 25cl - €1.99
+  - 9/10 Kriek version of Vichtenaar so of course it's gonna be damn good. FRUIT FLEMISH RED.
+
 
 ## Flemish Red
 * Duchesse de Bourgogne 25cl - €1.87 -
-  - 10/10 Very sweet and sour with a complicated aftertaste
+  - 10/10 Very sweet and sour with a complicated aftertaste (Vichtenaar is slightly nicer).
 * Vichtenaar 25cl - €1.87
   - 10/10 Very well balanced sweet+sour
 * Ichtegem's Old Brown 25cl - €1.97
@@ -77,3 +80,7 @@ The price should list the cheapest price for which the beer can be bought.
   - 6/10 Quite sour, not so sweet, like a sour Ichtegem's old brown.
 * Petrus Oud Bruin 33cl - €1.97
   - hard to find
+
+## Non-lambic special beers
+* Applebocq 25cl - €1.97
+  - 7/10 Like good apple juice, not unnatural like most fruit beers.
