@@ -9,7 +9,7 @@ The price should list the cheapest price for which the beer can be bought.
 * Boon Gueuze Mariage Parfait 37.5cl - €4.67
   - 6/10 taste doesn't stand out enough.
 * Boon Oude Gueuze (2011/2012) 25cl - €1.97
-  - 9.5/10 medium sour, nice fruity aftertaste, nice dankness. so good.
+  - 9/10 medium sour, nice fruity aftertaste, nice dankness. so good.
 * Girardin Gueuze 1882 Black Label 37.5cl - €4.17
   - 8/10 dry/sour, better than the filtered version.
 * Girardin Gueuze 1882 White Label 37.5cl - €4.17
@@ -17,7 +17,7 @@ The price should list the cheapest price for which the beer can be bought.
 * Lindemans Oude Gueuze Cuvee Rene 75cl - €5.97
   - 6.5/10 The taste doesn't become overbearing over time but also isn't that impressive.
 * Mort Subite Gueuze 25cl - €1.97
-  - 8/10 Fruity and slightly sour.
+  - 6/10 Fruity and slightly sour, one of the better sweet/malty lambics.
 * Mort Subite Oude Gueuze 37.5cl - €3.57
   - 7/10 Like the Gueze only much more sour, no funky smell.
 * Oud Beersel Oude Gueuze 37.5cl - €4.47
@@ -29,7 +29,7 @@ The price should list the cheapest price for which the beer can be bought.
 * Timmermans Oude Gueuze 37.5 cl - €3.97
   - 4/10 very sour/citrussy with a hint of sweetness, uncomplicated aftertaste, tastes like dry cider, almost like strongbow.
 * 3 Fonteinen Oude Kriek 37.5cl - 3 Fonteinen Oude Kriek - €7.97
-  - 10/10 Like the non-kriek version but the cherry gives it some added complexity without adding too much sweetness. So good.
+  - 9.5/10 Like the non-kriek version but the cherry gives it some added complexity without adding too much sweetness. So good.
 * St. Louis Gueuze Fond Tradition 37.5cl - €3.97
   - hard to find
 * Moriau Oude Geuze 37.5cl - €4.19
