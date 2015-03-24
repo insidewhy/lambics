@@ -11,9 +11,9 @@ The price should list the cheapest price for which the beer can be bought.
 * Boon Oude Gueuze (2011/2012) 25cl - €1.97
   - 9.5/10 medium sour, nice fruity aftertaste, nice dankness. so good.
 * Girardin Gueuze 1882 Black Label 37.5cl - €4.17
-  - 8.5-9.5/10 i was pretty tipsy by now but I remember it being awesome.
+  - 8/10 dry/sour, better than the filtered version.
 * Girardin Gueuze 1882 White Label 37.5cl - €4.17
-  - 9/10 tastes like half way between a pale and dark lager with sourness, pretty great.
+  - 7.5/10 nice dry lager/sour taste.
 * Lindemans Oude Gueuze Cuvee Rene 75cl - €5.97
   - 6.5/10 The taste doesn't become overbearing over time but also isn't that impressive.
 * Mort Subite Gueuze 25cl - €1.97
@@ -36,6 +36,8 @@ The price should list the cheapest price for which the beer can be bought.
   - 8/10 Medium sour, quite fruity, like a less dank version of the Boon Gueze.
 * Timmermans Tradition Gueuze 37.5 cl - €3.47
   - hard to find
+* Cantillon Gueuze 100% Lambic Bio 37.5cl - €7.29
+  - 7/10 smells really special. Nice dry/sour taste but not as funky as say, 3 Fonteinen.
 
 ## Sweet Lambic
 * Chapeau Banana 25cl - €2.17
@@ -54,6 +56,8 @@ The price should list the cheapest price for which the beer can be bought.
   - 9/10 most peachy peach beer but tastes like real peaches not fake peaches peach peach peach.
 * Echt Kriekenbier 25cl - €1.99
   - 9/10 Kriek version of Vichtenaar so of course it's gonna be damn good. FRUIT FLEMISH RED.
+* Boon Framboise 25cl - €2.69
+  - 6/10 Better than your average raspberry beer but not enough lambic taste.
 
 
 ## Flemish Red
@@ -74,13 +78,16 @@ The price should list the cheapest price for which the beer can be bought.
 * Rodenbach Vingage 2011 75 cl - €15.91
   - 8/10 Very sour/sweet but not unique enough for the price.
 * Liefmans Oud Bruin 25cl - €1.87 -
+  - 3/10 I considered abandoning this many times and probably should have.
 * Liefmans Goudenband 37.5 cl - €3.87
   - 8/10 Sour, funky smell, really good.
 * Bourgogne des Flandres 33cl - €2.27
   - 6/10 Quite sour, not so sweet, like a sour Ichtegem's old brown.
 * Petrus Oud Bruin 33cl - €1.97
-  - hard to find
+  - 9/10 Similar to Vichtenaar but with more bitterness.
 
 ## Non-lambic special beers
 * Applebocq 25cl - €1.97
   - 7/10 Like good apple juice, not unnatural like most fruit beers.
+* Mongozo Palmnut - €3.69
+  - 9.5/10 Like a very dry asian beer with extra niceness, SO GOOD.
