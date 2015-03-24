@@ -38,6 +38,8 @@ The price should list the cheapest price for which the beer can be bought.
   - hard to find
 * Cantillon Gueuze 100% Lambic Bio 37.5cl - €7.29
   - 7/10 smells really special. Nice dry/sour taste but not as funky as say, 3 Fonteinen.
+* Jacobins Gueuze 25cl - €1.69
+  - I forgot this one, I vaguely remember disliking it.
 
 ## Sweet Lambic
 * Chapeau Banana 25cl - €2.17
