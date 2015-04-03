@@ -19,7 +19,7 @@ The price should list the cheapest price for which the beer can be bought.
 * Mort Subite Gueuze 25cl - €1.97
   - 6/10 Fruity and slightly sour, one of the better sweet/malty lambics.
 * Mort Subite Oude Gueuze 37.5cl - €3.57
-  - 7/10 Like the Gueze only much more sour, no funky smell.
+  - 6.5/10 Like the Gueze only much more sour, no funky smell. I kinda hate malt tastes but I can stand this.
 * Oud Beersel Oude Gueuze 37.5cl - €4.47
   - 9/10 like the boon oude gueze, maybe slightly more sour/fruity.
 * St. Louis Gueuze Lambic 25cl - €1.87
